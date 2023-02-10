@@ -3,7 +3,7 @@
 ## Task
 - Replicate the below output as a responsive webpage.
 
-## **Solution**: [Live link](https://credit-card-landing-page-by-riya.netlify.app)
+## Live Link
 
 `Assests are Provided!`
 
